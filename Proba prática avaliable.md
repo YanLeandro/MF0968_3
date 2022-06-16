@@ -4,7 +4,7 @@ MF0968_3 Administración de sistemas de xestión de información
 
 Instalación Laragon de entorna Wamp : Laragon
 
-![Captura de pantalla 2022-06-13 131826](C:\assets\img\Captura de pantalla 2022-06-13 131826.png)
+![Captura de pantalla 2022-06-13 131826](/assets/img/Captura de pantalla 2022-06-13 131826.png)
 
 
 
