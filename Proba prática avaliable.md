@@ -10,17 +10,17 @@ Instalación Laragon de entorna Wamp : Laragon
 
 Versión PHP
 
-![Captura de pantalla 2022-06-13 131952](C:\assets\img\Captura de pantalla 2022-06-13 131952.png)
+![Captura de pantalla 2022-06-13 131952](\assets\img\Captura de pantalla 2022-06-13 131952.png)
 
 Versión Mysql
 
-![Captura de pantalla 2022-06-13 132041](C:\assets\img\Captura de pantalla 2022-06-13 132041.png)
+![Captura de pantalla 2022-06-13 132041](\assets\img\Captura de pantalla 2022-06-13 132041.png)
 
 
 
 Versión NodeJS
 
-![Captura de pantalla 2022-06-13 132110](C:\assets\img\Captura de pantalla 2022-06-13 132110.png)
+![Captura de pantalla 2022-06-13 132110](\assets\img\Captura de pantalla 2022-06-13 132110.png)
 
 
 
@@ -28,7 +28,7 @@ Versión npm
 
 
 
-![Captura de pantalla 2022-06-14 082517](C:\assets\img\Captura de pantalla 2022-06-14 082517.png)
+![Captura de pantalla 2022-06-14 082517](\assets\img\Captura de pantalla 2022-06-14 082517.png)
 
 
 
@@ -36,15 +36,15 @@ Versión npm
 
 Versión Composer
 
-![Captura de pantalla 2022-06-13 133110](C:\assets\img\Captura de pantalla 2022-06-13 133110.png)
+![Captura de pantalla 2022-06-13 133110](\assets\img\Captura de pantalla 2022-06-13 133110.png)
 
 PATH
 
-![Captura de pantalla 2022-06-13 140124](C:\assets\img\Captura de pantalla 2022-06-13 140124.png)
+![Captura de pantalla 2022-06-13 140124](\assets\img\Captura de pantalla 2022-06-13 140124.png)
 
 
 
-![Captura de pantalla 2022-06-13 140158](C:\assets\img\Captura de pantalla 2022-06-13 140158.png)
+![Captura de pantalla 2022-06-13 140158](\assets\img\Captura de pantalla 2022-06-13 140158.png)
 
 
 
@@ -52,13 +52,13 @@ Dominio de proba (dominio.test)
 
 
 
-![Captura de pantalla 2022-06-13 140616](C:\assets\img\Captura de pantalla 2022-06-13 140616.png)
+![Captura de pantalla 2022-06-13 140616](\assets\img\Captura de pantalla 2022-06-13 140616.png)
 
 
 
 
 
-![Captura de pantalla 2022-06-13 142652](C:\assets\img\Captura de pantalla 2022-06-13 142652.png)
+![Captura de pantalla 2022-06-13 142652](\assets\img\Captura de pantalla 2022-06-13 142652.png)
 
 
 
@@ -66,15 +66,15 @@ Dominio de proba (dominio.test)
 
 Compilación de activos con npm/Node
 
-![Captura de pantalla 2022-06-14 113159](C:\assets\img\Captura de pantalla 2022-06-14 113159.png)
+![Captura de pantalla 2022-06-14 113159](\assets\img\Captura de pantalla 2022-06-14 113159.png)
 
 Instalación de dependencias con npm
 
-![Captura de pantalla 2022-06-14 113003](C:\assets\img\Captura de pantalla 2022-06-14 113003.png)
+![Captura de pantalla 2022-06-14 113003](\assets\img\Captura de pantalla 2022-06-14 113003.png)
 
 Instalación de dependencias con composer
 
-![Captura de pantalla 2022-06-14 122758](C:\assets\img\Captura de pantalla 2022-06-14 122758.png)
+![Captura de pantalla 2022-06-14 122758](\assets\img\Captura de pantalla 2022-06-14 122758.png)
 
 
 
@@ -98,7 +98,7 @@ Creación dun sitio con PHP + Mysql
 
 Creación dun sitio con un framework PHP
 
-![image-20220615103239217](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20220615103239217.png)
+![image-20220615103239217](\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20220615103239217.png)
 
 
 
@@ -106,19 +106,19 @@ Creación dun sitio con un framework PHP
 
 Creación de repositorio en GitHub  
 
-![Captura de pantalla 2022-06-14 122416](C:\assets\img\Captura de pantalla 2022-06-14 122416.png)
+![Captura de pantalla 2022-06-14 122416](\assets\img\Captura de pantalla 2022-06-14 122416.png)
 
 
 
 Pantalla do perfil GitHub
 
-![Captura de pantalla 2022-06-14 113812](C:\assets\img\Captura de pantalla 2022-06-14 113812.png)
+![Captura de pantalla 2022-06-14 113812](\assets\img\Captura de pantalla 2022-06-14 113812.png)
 
 
 
 Creación dunha conta e un sitio de probas en Wordpress.com
 
-![Captura de pantalla 2022-06-14 084845](C:\assets\img\Captura de pantalla 2022-06-14 084845.png)
+![Captura de pantalla 2022-06-14 084845](\assets\img\Captura de pantalla 2022-06-14 084845.png)
 
 
 
@@ -126,11 +126,11 @@ Creación dunha conta e un sitio de probas en Wordpress.com
 
 
 
-![Captura de pantalla 2022-06-14 092305](C:\assets\img\Captura de pantalla 2022-06-14 092305.png)
+![Captura de pantalla 2022-06-14 092305](\assets\img\Captura de pantalla 2022-06-14 092305.png)
 
-![Captura de pantalla 2022-06-14 092329](C:\assets\img\Captura de pantalla 2022-06-14 092329.png)
+![Captura de pantalla 2022-06-14 092329](\assets\img\Captura de pantalla 2022-06-14 092329.png)
 
-![Captura de pantalla 2022-06-14 092347](C:\assets\img\Captura de pantalla 2022-06-14 092347.png)
+![Captura de pantalla 2022-06-14 092347](\assets\img\Captura de pantalla 2022-06-14 092347.png)
 
 
 
@@ -138,7 +138,7 @@ Creación dunha conta en Codepen, Bitbucket , ou outros
 
 
 
-![Captura de pantalla 2022-06-14 083726](C:\assets\img\Captura de pantalla 2022-06-14 083726.png)
+![Captura de pantalla 2022-06-14 083726](\assets\img\Captura de pantalla 2022-06-14 083726.png)
 
 
 
